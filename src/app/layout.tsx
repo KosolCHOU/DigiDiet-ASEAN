@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'DigiDiet ASEAN',
-  description: 'Healthcare B2B SaaS dashboard and web portfolio',
+  description: 'Circle of Care Ecosystem for Diabetes Management',
 };
 
 export default function RootLayout({
