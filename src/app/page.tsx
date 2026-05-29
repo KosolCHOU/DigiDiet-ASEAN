@@ -2,6 +2,7 @@
 
 import ProblemSection from '../components/sections/problem-section';
 import HeroSection from '../components/sections/hero-section';
+import SolutionSection from '../components/sections/solution-section';
 
 export default function Home() {
   return (
@@ -49,6 +50,9 @@ export default function Home() {
 
       {/* Problem Section (01 / THE ASEAN CRISIS) */}
       <ProblemSection />
+
+      {/* Solution Section (02 / THE LIVE SOLUTION) */}
+      <SolutionSection />
     </div>
   );
 }
